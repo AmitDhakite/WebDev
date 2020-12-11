@@ -123,9 +123,11 @@ h3{
   font-size: 30px;
 }
 .footer-link{
+  font-size: 20px;
   margin: 50px;
   padding-top: 10px;
   color: #11999E;
+  text-decoration: none;
 }
 .BUTTON_FZQ {
   margin: 50px auto 50px auto;
